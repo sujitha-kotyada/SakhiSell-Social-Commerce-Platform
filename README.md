@@ -117,18 +117,7 @@ SakhiSell-Social-Commerce-Platform/
 
 ---
 
-## 🚧 Roadmap
 
-- [ ] Firebase backend integration (Firestore for products)
-- [ ] User authentication (Firebase Auth)
-- [ ] Payment integration (Razorpay/Stripe)
-- [ ] Real-time chat between buyers and sellers
-- [ ] Order tracking system
-- [ ] PWA support for mobile installation
-- [ ] Push notifications for order updates
-- [ ] SEO optimization
-
----
 
 ## 🎨 Design
 
